@@ -19,10 +19,10 @@ with open(path.join(here, 'requirements.txt'), encoding='utf-8') as f:
 
 
 setup(
-    name='python-backlog',
+    name='py-tetra',
     version=version,
     install_requires=install_requires,
-    description='Questetra wrapper',
+    description='API wrapper library of Questetra BPM Suite',
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='hassaku63',
