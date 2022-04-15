@@ -46,7 +46,7 @@ print(json.dumps(resp))
 #       "processInstanceTitle": "Process title",
 #       "processModelInfoCategory": "Legal",
 #       "processModelInfoId": 779,
-#       "processModelInfoName": "運用代行新規開始・追加監視の連絡",
+#       "processModelInfoName": "Workflow name",
 #       "processModelVersion": 33,
 #       "starred": false
 #     }
